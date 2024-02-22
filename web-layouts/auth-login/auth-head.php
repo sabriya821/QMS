@@ -1,5 +1,5 @@
 
-        <?php $url="https://localhost/QMS_Final/"; ?>
+        <?php $url="/"; ?>
         <?php session_start(); ?>
         <meta charset="utf-8" />
         <title>Login | Divisional Secretariat Eravur Town</title>
