@@ -1,4 +1,4 @@
-       <?php $url="https://localhost/QMS_Final/"; ?>
+       <?php $url="/"; ?>
         <?php 
         session_start(); 
         if (!$_SESSION['uname']) {

@@ -3,8 +3,8 @@
 	// Database configuration 
 
 	$sernamename = "localhost";
-	$username    = "u710159267_tokennm";
-	$passoword   = "TOk@6275$!";
+	$username    = "root";
+	$passoword   = "";
 	$databasename= "u710159267_tokendb";
 
 	// Create database connection
